@@ -1,7 +1,7 @@
 {
   "name" : "kbide-plugin-CJMCU-TEMT6000",
   "title": "CJMCU-TEMT6000",
-  "keywords": "hall-magnetic, esp32, esp8266, arduino",
+  "keywords": "CJMCU-TEMT6000, esp32, esp8266, arduino",
   "description": "CJMCU-TEMT6000 plugin for KB-IDE",
   "category":"",
   "git": "https://https://github.com/apinuntong/kbide-plugin-CJMCU-TEMT6000/",
