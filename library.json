@@ -12,6 +12,6 @@
   "board" : "",
   "platform": ["arduino-esp32"],
   "license": "",
-  "image" : "/static/display.png",
+  "image" : "/static/CJMCU-TEMT6000.png",
   "homepage": "http://www.kbide.org"
 }
