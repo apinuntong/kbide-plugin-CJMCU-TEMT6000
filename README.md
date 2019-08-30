@@ -1,1 +1,1 @@
-# kbide-plugin-CJMCU-TEMT6000
+# hall-magnetic library for KB-IDE
