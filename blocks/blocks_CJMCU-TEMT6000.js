@@ -1,13 +1,12 @@
-Blockly.Blocks['hall_magnetic_block'] = {
+Blockly.Blocks['read_temt6000'] = {
   init: function() {
     this.appendDummyInput()
-        .appendField("HALL MAGNETIC");
-    this.appendValueInput("HALL_MAGNETI")
+        .appendField("read TEMT6000");
+    this.appendValueInput("PINTEMT6000")
         .setCheck("Number")
-        .appendField("SENSOR PIN");
+        .appendField("PIN");
     this.setInputsInline(true);
-    this.setOutput(true, "Number");
-    this.setColour(230);
+    this.setOutput(true, null);
  this.setTooltip("");
  this.setHelpUrl("");
   }
